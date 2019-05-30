@@ -2,6 +2,6 @@
 const drivers = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendDriver(name) {
-  drivers.pop(name)
+  drivers.(name)
   drivers.unshift(name)
 }
